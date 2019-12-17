@@ -1,0 +1,54 @@
+{
+  "OtherSkills":[
+    {
+      "SkillNumber":1,
+      "SkillName":"Snooker",
+      "Proficiency":"80%"
+    },
+    {
+      "SkillNumber":2,
+      "SkillName":"Pool",
+      "Proficiency":"85%"
+    },
+    {
+      "SkillNumber":3,
+      "SkillName":"Surfing",
+      "Proficiency":"70%"
+    },
+    {
+      "SkillNumber":4,
+      "SkillName":"Basketball",
+      "Proficiency":"75%"
+    },
+    {
+      "SkillNumber":5,
+      "SkillName":"Playing The Piano",
+      "Proficiency":"60%"
+    },
+    {
+      "SkillNumber":6,
+      "SkillName":"Read, Write And Speak Spanish And Japanese",
+      "Proficiency":"85%"
+    },
+    {
+      "SkillNumber":7,
+      "SkillName":"Chess",
+      "Proficiency":"90%"
+    },
+    {
+      "SkillNumber":8,
+      "SkillName":"Football",
+      "Proficiency":"50%"
+    },
+    {
+      "SkillNumber":9,
+      "SkillName":"Dancing",
+      "Proficiency":"65%"
+    },
+    {
+      "SkillNumber":10,
+      "SkillName":"Singing",
+      "Proficiency":"60%"
+    }
+  ]
+}

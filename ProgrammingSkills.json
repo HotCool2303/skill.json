@@ -1,0 +1,54 @@
+{
+"ProgrammingSkills":[
+  {
+    "SkillNumber":1,
+    "SkillName":"C++ Programming",
+    "Proficiency":"80%"
+  },
+  {
+    "SkillNumber":2,
+    "SkillName":"Java Programming",
+    "Proficiency":"85%"
+  },
+  {
+    "SkillNumber":3,
+    "SkillName":"Shell Programming",
+    "Proficiency":"70%"
+  },
+  {
+    "SkillNumber":4,
+    "SkillName":"Assembly Level Programming",
+    "Proficiency":"90%"
+  },
+  {
+    "SkillNumber":5,
+    "SkillName":"Web Development (HTML, CSS ,Javascript, etc.)",
+    "Proficiency":"80%"
+  },
+  {
+    "SkillNumber":6,
+    "SkillName":"Photoshop",
+    "Proficiency":"60%"
+  },
+  {
+    "SkillNumber":7,
+    "SkillName":"UNIX",
+    "Proficiency":"60%"
+  },
+  {
+    "SkillNumber":8,
+    "SkillName":"Artificial Intelligence",
+    "Proficiency":"85%"
+  },
+  {
+    "SkillNumber":9,
+    "SkillName":"Machine Learning",
+    "Proficiency":"80%"
+  },
+  {
+    "SkillNumber":10,
+    "SkillName":"Blockchain",
+    "Proficiency":"75%"
+  }
+]
+}
